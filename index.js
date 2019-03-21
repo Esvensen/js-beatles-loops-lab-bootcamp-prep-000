@@ -1,7 +1,3 @@
-// add solution here
-
-var musicians = [];
-var instruments = [];
 
 function theBeatlesPlay (musicians, instruments) {
   var musiciansPlay
